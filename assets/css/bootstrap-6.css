@@ -11746,7 +11746,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: #80425F;
+  background-color: #a916d0;
 }
 
 .resume-wrapper {
@@ -11759,13 +11759,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #80425F;
+  background: #371164;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 125px;
 }
 
 .resume-header .name {
@@ -11779,11 +11779,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header a {
-  color: rgba(255, 255, 255, 0.6);
+  color: #f1f1f1c7;
+  text-decoration: none;
 }
 
 .resume-header a:hover {
   color: white;
+  text-decoration: underline;
 }
 
 .resume-social {
@@ -11797,13 +11799,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   height: 24px;
   border-radius: 0.125rem;
   background: white;
-  color: #80425F;
+  color: #371164bd;
 }
 
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #80425F;
+  color: #7c2cab;
 }
 
 .resume-section-title:after {
@@ -11829,7 +11831,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #d9b5c6;
+  background: #8b3bed8f;
   left: 6px;
   top: 4px;
   position: absolute;
@@ -11843,7 +11845,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #a25378;
+  border: 4px solid #673C9C;
   background: white;
   border-radius: 50%;
 }
@@ -11874,7 +11876,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-skills-cat {
   font-size: 1rem;
-  color: #434E5E;
+  color: #7c2cab;
 }
 
 .resume-skill-name {
