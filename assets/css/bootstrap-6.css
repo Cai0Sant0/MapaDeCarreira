@@ -8540,7 +8540,7 @@ textarea.form-control-lg {
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  background-color:  #520171 !important;
 }
 
 .bg-black {
@@ -11885,8 +11885,9 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .badge-light {
-  color: #58677c;
-  background: #F7F8FA;
+  color: #ffffff;
+  background: #520171;
+  margin: 2px;
 }
 
 .resume-degree {
